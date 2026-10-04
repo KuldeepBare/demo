@@ -1,0 +1,6 @@
+{
+  "name": "Nocturne Reserve — Curated Late-Night Cellar & Delivery",
+  "description": "A legally compliant, age-verified late-night beverage delivery concierge operating during permitted hours with curated spirits, artisanal cellars, and discreet delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
